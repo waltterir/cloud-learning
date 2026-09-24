@@ -1,0 +1,1 @@
+# " Tänään opein ": virheet ja niiden ratkaisut
